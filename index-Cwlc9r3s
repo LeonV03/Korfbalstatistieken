@@ -1,4 +1,4 @@
-var im = e => {
+var im = e => { 
     throw TypeError(e)
 }
 ;
